@@ -1,4 +1,4 @@
-Module.register("MMM-MQTT", {
+Module.register("MMM-MQTT-2", {
   log: function (...args) {
     if (this.config.logging) {
       args.forEach((arg) => console.log(arg));
