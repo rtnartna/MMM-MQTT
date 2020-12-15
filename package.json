@@ -1,11 +1,11 @@
 {
-  "name": "MMM-MQTT",
+  "name": "MMM-MQTT-2",
   "version": "0.0.1",
   "description": "Show payload from subscribed MQTT message",
-  "author": "Otto Paulsen",
+  "author": "Rick Sulman",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ottopaulsen/MMM-MQTT.git"
+    "url": "git://github.com/rtnartna/MMM-MQTT-2.git"
   },
   "license": "MIT",
   "dependencies": {
